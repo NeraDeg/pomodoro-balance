@@ -1,0 +1,23 @@
+<resources>
+    <string name="create_note">Создать заметку</string><string name="reset_search">Сбросить поиск</string>
+    <string name="remove_item">Удалить пункт</string><string name="remove_paragraph">Удалить абзац</string>
+    <string name="undo">Отменить</string><string name="block_removed">Фрагмент удалён</string>
+    <string name="delete_note_action">Удалить заметку</string>
+    <string name="note_color">Цвет заметки</string>
+    <string name="background_cream">Кремовый (исходный)</string><string name="background_sand">Песочный</string>
+    <string name="background_sage">Шалфейный</string><string name="background_lavender">Нежный лавандовый</string>
+    <string name="background_powder">Пудровый</string><string name="background_peach">Светлый персиковый</string>
+    <string name="color_behavior">Фон всей заметки в редакторе и списке. Кремовый возвращает исходный цвет.</string>
+    <string name="current_color">Цвет заметки: %1$s</string><string name="save_failed">Не удалось сохранить</string>
+    <string name="retry">Повторить</string><string name="unsaved">Есть несохранённые изменения</string>
+    <string name="new_folder_action">+ Новая папка</string>
+    <string name="tap_start">Нажми, чтобы начать</string><string name="tap_pause">Нажми, чтобы поставить на паузу</string>
+    <string name="tap_resume">Продолжить</string>
+    <string name="timer_button">%1$s. %2$s</string>
+    <string name="reset_timer">Сбросить</string><string name="reset_question">Сбросить таймер?</string>
+    <string name="reset_warning">Прогресс текущего занятия будет потерян</string>
+    <string name="clear_history">Очистить историю</string><string name="clear_history_question">Очистить историю занятий?</string>
+    <string name="clear_history_hint">Занятия исчезнут из истории и итогов. Текущий таймер, цикл, заметки и дела сохранятся.</string>
+    <string name="delete_session">Удалить занятие</string><string name="delete_session_question">Удалить это занятие?</string>
+    <string name="delete_session_hint">Занятие исчезнет из истории и итогов. Текущий таймер и дела сохранятся.</string>
+</resources>

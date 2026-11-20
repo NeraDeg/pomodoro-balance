@@ -1,0 +1,1 @@
+ALTER TABLE notes ADD COLUMN background_color TEXT NOT NULL DEFAULT 'CREAM';

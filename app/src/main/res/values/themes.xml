@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.Polyanka.Base" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">@font/montserrat</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">#F7F0E3</item>
+        <item name="android:colorAccent">#526448</item>
+    </style>
+    <style name="Theme.Polyanka" parent="Theme.Polyanka.Base" />
+</resources>
+

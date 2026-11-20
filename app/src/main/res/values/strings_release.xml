@@ -1,0 +1,18 @@
+<resources>
+    <string name="privacy_support">Конфиденциальность и поддержка</string>
+    <string name="developer_credit">Разработчик: munk berries</string>
+    <string name="contact_support">Написать в поддержку</string>
+    <string name="support_unavailable">Почтовое приложение не найдено. Адрес: munkberries@yandex.ru</string>
+    <string name="support_address">munkberries@yandex.ru</string>
+    <string name="privacy_read">Политика конфиденциальности</string>
+    <string name="transfer_title">Перенос данных</string>
+    <string name="transfer_help">Сохраните файл перед сменой подписи приложения (до 8 МБ). Он содержит ваши записи и настройки без шифрования — выберите безопасное место. Восстановление доступно только в новой пустой установке. Работающий таймер в копии сохраняется на паузе; живой таймер не останавливается.</string>
+    <string name="transfer_save">Сохранить копию данных</string>
+    <string name="transfer_open">Открыть копию для переноса</string>
+    <string name="transfer_confirm">Восстановить данные?</string>
+    <string name="transfer_confirm_help">Записи, папки, планы, история и настройки будут восстановлены в пустую установку. Старые завершения не проигрываются повторно; незавершённый таймер останется на паузе. Системные разрешения проверяются отдельно.</string>
+    <string name="transfer_restore">Восстановить</string>
+    <string name="transfer_exported">Копия сохранена. Сохраните её до проверки переноса.</string>
+    <string name="transfer_imported">Данные восстановлены. Проверьте записи и разрешения уведомлений.</string>
+    <string name="transfer_error">Не удалось выполнить перенос. Нужна исправная копия Помодоро Баланс и пустая установка. Текущие записи не заменены. Проверьте также доступ к файлу и свободное место.</string>
+</resources>

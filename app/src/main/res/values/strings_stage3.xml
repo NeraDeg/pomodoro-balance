@@ -1,0 +1,18 @@
+<resources>
+    <string name="timer_tab">Таймер</string>
+    <string name="focus_completed">Занятие завершено</string>
+    <string name="time_to_rest">Пора отдохнуть</string>
+    <string name="focus_behind">%1$s фокуса позади</string>
+    <string name="short_break_label">Короткий перерыв</string>
+    <string name="long_break_label">Длительный перерыв</string>
+    <string name="today_focus_total">%1$s · %2$s</string>
+    <string name="notes_banner">Идеи, списки и важное</string>
+    <string name="folder_chip">+ Папка</string>
+    <string name="calendar_banner">Для себя тоже найдётся время</string>
+    <string name="blackbird_channel_both">Фокус: дрозд и вибрация</string>
+    <string name="blackbird_channel_sound">Фокус: пение дрозда</string>
+    <string name="blackbird_channel_description">Мягкий сигнал завершения рабочего таймера</string>
+    <string name="blackbird_signal_info">После фокуса — тихая, смягчённая фраза дрозда с плавным нарастанием и затуханием. Громкость и тишина — в настройках Android.</string>
+    <string name="rest_signal_channel">Канал сигнала отдыха</string>
+    <string name="blackbird_credit">Пение дрозда — Cinetony, Freesound №565058, CC0 1.0. Фрагмент сокращён, переведён в моно; понижены тон и громкость, смягчены высокие частоты, добавлены плавные начало и затухание.</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.Polyanka" parent="Theme.Polyanka.Base">
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>

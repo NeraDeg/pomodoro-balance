@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">Помодоро Баланс</string>
+    <string name="focus">Фокус</string><string name="notes">Заметки</string><string name="calendar">Календарь</string>
+    <string name="settings">Настройки</string><string name="back">Назад</string><string name="close">Закрыть</string>
+    <string name="cancel">Отмена</string><string name="delete">Удалить</string><string name="edit">Изменить</string>
+    <string name="save">Сохранить</string><string name="add">Добавить</string><string name="choose">Выбрать</string>
+    <string name="today">Сегодня</string><string name="previous_month">Предыдущий месяц</string><string name="next_month">Следующий месяц</string>
+    <string name="weekday_mon">Пн</string><string name="weekday_tue">Вт</string><string name="weekday_wed">Ср</string>
+    <string name="weekday_thu">Чт</string><string name="weekday_fri">Пт</string><string name="weekday_sat">Сб</string><string name="weekday_sun">Вс</string>
+    <string name="today_description">%1$s, сегодня</string>
+    <string name="time_for_self">Время для себя</string><string name="task_prompt">Чем займёмся?</string>
+    <string name="session_title_saved">Название текущего занятия уже сохранено</string>
+    <string name="cycle_progress">Завершено %1$d из 4 занятий</string><string name="cycle_current">Занятие %1$d из 4</string>
+    <string name="cycle_finished">Завершено %1$d из 4</string><string name="cycle_rest">Отдых после занятия %1$d</string>
+    <string name="manual_rest">Отдых вне цикла</string>
+    <string name="start">Начать</string><string name="pause">Пауза</string><string name="finish">Завершить</string>
+    <string name="resume">Продолжить</string><string name="no_rush">Можно никуда не спешить</string>
+    <string name="session_interrupted">Занятие завершено досрочно</string><string name="rest_finished">Можно вернуться к своим делам</string>
+    <string name="long_rest_offer">Четыре занятия позади. Время длинного отдыха</string><string name="rest_offer">Пора немного отдохнуть</string>
+    <string name="start_rest">Начать перерыв</string><string name="skip_rest">Пропустить перерыв</string>
+    <string name="finish_today">Закончить на сегодня</string><string name="next_focus">К следующему фокусу</string>
+    <string name="short_rest">Короткий отдых</string><string name="rest">Перерыв</string><string name="long_rest">Длинный отдых</string>
+    <string name="history">История занятий</string><string name="focus_signal_hint">Фоновый сигнал можно включить в настройках</string>
+    <string name="finish_question">Завершить занятие?</string>
+    <string name="finish_explanation">Сохраним время, которое уже удалось уделить делу. Полное занятие не засчитается.</string>
+    <string name="paused">На паузе</string><string name="ready">Готово</string><string name="focus_time">Время сосредоточиться</string><string name="rest_time">Время отдохнуть</string>
+    <string name="timer_description">%1$s. Осталось: %2$s, %3$s</string>
+    <string name="today_summary">Сегодня — %1$s для своих дел</string><string name="completed_summary">Завершено: %1$s</string>
+    <string name="focus_summary">В фокусе: %1$s</string>
+    <plurals name="minutes"><item quantity="one">%d минута</item><item quantity="few">%d минуты</item><item quantity="many">%d минут</item><item quantity="other">%d минуты</item></plurals>
+    <plurals name="seconds"><item quantity="one">%d секунда</item><item quantity="few">%d секунды</item><item quantity="many">%d секунд</item><item quantity="other">%d секунды</item></plurals>
+    <plurals name="sessions"><item quantity="one">%d занятие</item><item quantity="few">%d занятия</item><item quantity="many">%d занятий</item><item quantity="other">%d занятия</item></plurals>
+    <plurals name="plans"><item quantity="one">%d дело</item><item quantity="few">%d дела</item><item quantity="many">%d дел</item><item quantity="other">%d дела</item></plurals>
+    <string name="history_empty">Здесь пока тихо</string><string name="history_empty_hint">После первого занятия появится его история.</string>
+    <string name="history_duration">%1$s, %2$s · %3$s</string><string name="fully">Полностью</string><string name="early">Досрочно</string>
+    <string name="rest_not_work">Отдых не входит в рабочее время</string>
+    <string name="linked_task">Связанное дело</string><string name="task_missing">Дело удалено. История и занятие сохранены.</string>
+    <string name="error_read">Не удалось прочитать локальные данные. Попробуй ещё раз.</string>
+    <string name="error_save">Не удалось сохранить изменения. Попробуй ещё раз; данные не сбрасываются.</string>
+    <string name="error_folder">Название папки должно быть непустым и уникальным.</string>
+    <string name="error_conflict">Запись изменилась или была удалена. Открой её ещё раз.</string>
+    <string name="notes_empty">Записей пока нет</string><string name="notes_empty_hint">Здесь будут твои мысли, списки и конспекты</string>
+    <string name="search_notes">Найти заметку</string><string name="search_empty">Ничего не найдено</string>
+    <string name="search_empty_hint">Попробуй другой запрос или выбери другую папку.</string>
+    <string name="all_folders">Все</string><string name="no_folder">Без папки</string><string name="folders">Папки</string>
+    <string name="new_folder">Новая папка</string><string name="folder_name">Название папки</string><string name="rename">Переименовать</string>
+    <string name="delete_folder_question">Удалить папку?</string><string name="delete_folder_hint">Заметки останутся и перейдут в «Без папки».</string>
+    <string name="new_note">Новая запись</string><string name="note_template">Конспект</string><string name="list_template">Список</string>
+    <string name="untitled">Без названия</string><string name="note_title">Заголовок</string><string name="note_body_hint">Начни писать…</string>
+    <string name="pinned">Закреплено</string><string name="pin">Закрепить</string><string name="unpin">Открепить</string>
+    <string name="delete_note_question">Удалить заметку?</string><string name="delete_note_hint">Эту запись нельзя будет восстановить.</string>
+    <string name="paragraph">Текст</string><string name="heading">Заголовок</string><string name="bold">Жирный</string>
+    <string name="bullets">Список</string><string name="numbered">Нумерация</string><string name="checklist">Чек-лист</string>
+    <string name="add_block">Добавить абзац</string><string name="delete_block">Удалить блок</string>
+    <string name="check_item">Отметить пункт</string><string name="saved_automatically">Изменения сохраняются автоматически</string>
+    <string name="saving">Сохраняем…</string><string name="saved">Сохранено</string>
+    <string name="day_empty">На этот день пока нет планов</string><string name="add_task">Добавить дело</string><string name="plan_task">Запланировать</string>
+    <string name="edit_task">Изменить дело</string><string name="task_kind">Тип записи</string>
+    <string name="kind_todo">Дело</string><string name="kind_event">Событие</string><string name="kind_deadline">Срок сдачи</string>
+    <string name="task_title">Название</string><string name="description">Описание</string>
+    <string name="date">Дата</string><string name="time">Время</string><string name="without_time">Без времени</string>
+    <string name="optional_time">Указать время</string><string name="clear_time">Убрать время</string>
+    <string name="done">Выполнено</string><string name="not_done">Не выполнено</string><string name="overdue">Просрочено</string>
+    <string name="move">Перенести</string><string name="start_focus">Начать фокус</string>
+    <string name="delete_task_question">Удалить дело?</string><string name="delete_task_hint">Связанные занятия останутся в истории.</string>
+    <string name="form_close_question">Сохранить изменения?</string><string name="discard">Не сохранять</string>
+    <string name="task_title_required">Введи название, а не только пробелы.</string><string name="event_time_required">Для события нужно указать время.</string>
+    <string name="reminder_in_past">Время напоминания уже прошло. Выбери будущее время или отключи напоминание.</string>
+    <string name="reminder">Напоминание</string><string name="reminder_date">Дата напоминания</string><string name="reminder_time">Время напоминания</string>
+    <string name="reminder_at">Напомнить: %1$s</string><string name="reminder_permission_hint">Дело сохранится. Для сигнала нужно разрешить уведомления.</string>
+    <string name="reminder_disabled_hint">Напоминания дел выключены в настройках приложения.</string>
+    <string name="reminder_inexact_hint">Фоновый сигнал может задержаться: точное пробуждение не разрешено.</string>
+    <string name="enable_notifications">Включить уведомления</string>
+    <string name="current_session_question">Сейчас уже есть занятие</string>
+    <string name="current_session_hint">Новое дело не заменит текущий фокус или паузу.</string>
+    <string name="go_current_session">Перейти к текущему занятию</string>
+    <string name="task_reminder_channel">Напоминания дел</string><string name="task_reminder_description">Выбранные напоминания календаря</string>
+    <string name="task_reminder_body">%1$s · Напоминание из календаря</string>
+    <string name="timer_channel_description">Окончание выбранного занятия или отдыха</string>
+    <string name="timer_channel_both">Таймер: звук и вибрация</string><string name="timer_channel_sound">Таймер: только звук</string>
+    <string name="timer_channel_vibrate">Таймер: только вибрация</string><string name="timer_channel_silent">Таймер: без звука и вибрации</string>
+    <string name="focus_notification_body">Занятие завершено. Перерыв начнётся, когда захочешь.</string>
+    <string name="rest_notification_body">Отдых завершён. Следующий фокус ждёт тебя.</string>
+    <string name="rhythm">Ритм занятий</string><string name="next_session_settings">Изменения применяются к следующей сессии.</string>
+    <string name="duration_label">%1$s, минут</string><string name="duration_range">От %1$d до %2$d</string>
+    <string name="four_focus_rest">Длинный отдых — после четырёх полных фокусов.</string>
+    <string name="invalid_duration">Некорректное значение не сохранено. Остальные настройки сохраняются сразу.</string>
+    <string name="completion_signal">Сигнал завершения</string><string name="notifications">Уведомления</string><string name="sound">Звук</string><string name="vibration">Вибрация</string>
+    <string name="signal_off">Фоновый сигнал выключен. Завершение всегда видно в приложении.</string>
+    <string name="signal_denied">Уведомления или выбранный канал запрещены системой. Разреши их в настройках Android.</string>
+    <string name="signal_on">Уведомления разрешены. Звук и вибрация подчиняются настройкам канала и режиму тишины Android.</string>
+    <string name="android_notifications">Уведомления в Android</string><string name="current_channel">Текущий канал сигнала</string>
+    <string name="exact_on">Точное пробуждение разрешено.</string>
+    <string name="exact_off">Без точного пробуждения фоновый сигнал может задержаться. Остаток времени и история сохраняются.</string>
+    <string name="allow_exact">Разрешить точный сигнал</string><string name="permissions_optional">Разрешения добровольные. Следующая фаза начинается только по нажатию.</string>
+    <string name="about">О приложении</string><string name="about_text">Помодоро Баланс · 1.0.0\nБесплатное офлайн-приложение. Данные хранятся на этом устройстве.</string>
+    <string name="licenses">Лицензии</string><string name="font_license_title">Montserrat · SIL OFL 1.1</string>
+    <string name="font_license_description">Montserrat — официальный Google Fonts. Встроен локально; начертания 400, 500 и 600.\n</string>
+    <string name="recovery_rollback">После перезагрузки часы изменились. Занятие на паузе; оставшееся время сохранено.</string>
+    <string name="recovery_reboot">После перезагрузки остаток восстановлен по часам устройства.</string>
+    <string name="recovery_clock">Часы устройства изменились; длительность занятия сохранена.</string>
+    <string name="cycle_interrupted">Занятие %1$d завершено досрочно</string>
+    <string name="moved_reminder_past">Дело перенесено. Напоминание оказалось в прошлом и выключено; новое время можно задать в форме дела.</string>
+</resources>
+
+

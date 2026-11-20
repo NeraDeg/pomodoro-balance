@@ -1,0 +1,6 @@
+Blackbird singing in garden with rustling trees in background
+Cinetony, Freesound #565058
+https://freesound.org/people/Cinetony/sounds/565058/
+CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Soft derivative: excerpt beginning 47.5 s, pitch -4 semitones via slower resampling, gentle 2800 Hz low-pass, mono PCM16/48 kHz, reduced level, 4.5 s fade-in and 2.5 s fade-out. Duration 10.5 s.
+Original bundled cue remains only for compatibility with prior channels.
