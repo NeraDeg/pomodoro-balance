@@ -6,6 +6,13 @@ Android-приложение для сосредоточенной работы 
 
 **Статус:** опубликовано в RuStore · **Версия исходников:** 1.0.0 (9) · **Android:** 8.0 и выше.
 
+[Скачать в RuStore](https://www.rustore.ru/catalog/app/com.munkberries.tikhayapolyanka)
+
+## Скриншоты
+<img width="250" alt="Screenshot_2026-10-29-23-09-06-447_com munkberries tikhayapolyanka" src="https://github.com/user-attachments/assets/3d7cba3e-d922-4258-ba64-08399715f3bf" />
+<img width="250" alt="Screenshot_2026-10-29-23-16-13-881_com munkberries tikhayapolyanka" src="https://github.com/user-attachments/assets/8ee77975-1101-416f-adc5-29c72e4ebd80" />
+<img width="250" alt="Screenshot_2026-10-29-23-15-03-735_com munkberries tikhayapolyanka" src="https://github.com/user-attachments/assets/9a729942-b63d-491f-8141-a661772f1e67" />
+
 ## Что внутри
 
 - Таймер фокуса с короткими и длинными перерывами, паузой и настройкой длительности.
